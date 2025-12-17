@@ -10,6 +10,7 @@
 - 😄 Pronouns: Br/Brrr
 - ⚡ Fun fact: _will study bears to find smth nice to put here_
 - 🎨 Yellow text by brown bear
+- 🍯 Honey, i'm home!
 - 🎤 (dropped)
 
 <!---
