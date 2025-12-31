@@ -6,12 +6,15 @@
 
 
 - 👋 Hi, I’m @atxw
-- 🚧 .. and building this
 - 😄 Pronouns: Br/Brrr
 - ⚡ Fun fact: _will study bears to find smth nice to put here_
-- 🎨 Yellow text by brown bear
+- 🚧 .. and building this, behind bear-rier
 - 🍯 Honey, i'm home!
+- 🎨 Yellow text by brown bear
+- 🍇 non-yellow version made of blue-bear-ries
+- ✈ flying around, find me near the bear-port
 - 🎤 (dropped)
+
 
 <!---
 atxw/atxw is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
